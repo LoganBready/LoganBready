@@ -1,7 +1,6 @@
 👋 Hi, I’m @LoganBready
 I'm currently learning about web development and its technologies!
 
-Technologies:
 Languages - Javascript, Typescript
 
 Front end - React, Angular, Axios, HTML, CSS
